@@ -1,6 +1,10 @@
 # Font Space
 
-A font collection.
+**Font Space** is a series of beautiful and inspiring collections of fonts and typefaces.
+
+## Credits
+
+- [Font Zin](https://fontzin.com)
 
 ## License
 
